@@ -247,7 +247,7 @@ More documentation can be found in the [anvil](https://getfoundry.sh/anvil/overv
 
 Chisel is a fast, utilitarian, and verbose Solidity REPL.
 
-To use Chisel, simply type `chisel`.
+To use Chisel, simply type 'chisel'.
 
 ```sh
 chisel
